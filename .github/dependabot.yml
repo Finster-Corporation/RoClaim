@@ -1,0 +1,11 @@
+# To get alerts, Roclaim relies on GitHub itself to notify us of any code vulnerabilities or any errors
+# If you are making a fork or pull - DO NOT DELETE THIS FILE!
+
+
+
+version: 2
+updates:
+  - package-ecosystem: "" # See documentation for possible values
+    directory: "/" # Location of package manifests
+    schedule:
+      interval: "weekly"
