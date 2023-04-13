@@ -1,4 +1,4 @@
-"manifest_version": 2,
+"manifest_version": 3,
 "name": "RoClaim",
 "description": "Claim Free Roblox Limiteds Automatically!",
 "version": "0.1",
@@ -6,4 +6,5 @@
   "16": "",
   "48": "",
   "128": ""
-},
+}
+"author": "Finstr Corporation."
